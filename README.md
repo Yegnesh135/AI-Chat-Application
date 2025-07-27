@@ -58,7 +58,7 @@ Contains all necessary Python packages including:
 **Installation**  
 **1. Clone the repository**  
 bash  
-git  clone https://github.com/Yegnesh135/ML_project.git  
+git  clone https://github.com/Yegnesh135/AI-Chat-Application.git  
 cd ML_project
 
   
