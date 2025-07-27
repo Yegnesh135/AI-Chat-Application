@@ -1,5 +1,8 @@
 # AI-Chat-Application
-Simple AI Chat application with limited and effective frameworks and concepts
+**Simple AI Chat application with limited and effective frameworks and concepts**
+
+<img width="1550" height="883" alt="Screenshot 2025-07-27 161650" src="https://github.com/user-attachments/assets/a916bbc0-009a-49ff-a52d-246916a5eaea" />
+
 
 A simple yet powerful AI chatbot application built with Gradio and OpenAI's GPT-4 model. This project demonstrates how to create a streaming chat interface that provides real-time AI responses with conversation memory.
 
